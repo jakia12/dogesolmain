@@ -1096,3 +1096,13 @@ html {
   ) !important;
   overflow: hidden;
 }
+
+.button-light,
+.button-green {
+  background: linear-gradient(45deg, #ca3ce7, #42e8be) !important;
+  border: 0px solid #9f72da !important;
+  border-radius: 30px;
+  padding: 16px 40px;
+  text-decoration: none;
+  position: relative;
+}
